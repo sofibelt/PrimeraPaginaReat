@@ -18,6 +18,10 @@ code {
   left: 30%;
 }
 
+.nombre{
+     padding-top: 20px;
+  }
+
 #azul{
 	background-color: #80DAEB;
 }

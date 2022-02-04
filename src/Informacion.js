@@ -5,7 +5,7 @@ function Informacion() {
   return (
     <div id="azul">
       <form>
-        <div id="campo" class="form-group col-4 offset-4">
+        <div id="campo" class="form-group col-4 offset-4 nombre">
           <input  class="form-control bg-transparent" id="exampleFormControlInput1" placeholder="Nombre"></input>
         </div>
         <div id="campo" class="form-group col-4 offset-4">
