@@ -18,8 +18,21 @@ code {
   left: 30%;
 }
 
+#azul{
+	background-color: #80DAEB;
+}
+
 #padre {
   border-bottom: 20px solid #FFFFFF;
   position: relative;    /* para poder posicionar el texto de forma absoluta */
   display: inline-block; /* para que solo ocupe el ancho de la imagen */
+}
+
+
+#imagenes {
+  border: 6px solid #FFFFFF;
+}
+
+#campo {
+  border: 10px solid #80DAEB;
 }

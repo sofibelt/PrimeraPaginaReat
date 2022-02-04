@@ -1,15 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import TextoInicial from './TextoInicial';
 import Imagenes from './Imagenes';
+import Informacion from './Informacion';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <TextoInicial />
     <Imagenes />
+    <Informacion />
   </React.StrictMode>,
   document.getElementById('root')
 );
